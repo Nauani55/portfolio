@@ -60,7 +60,7 @@ Responder, de forma visual e apresentável, a quatro perguntas de gestão:
 
 ## Medidas DAX
 
-Exemplos das medidas usadas. Os nomes das colunas devem ser adaptados ao modelo.
+Exemplos das medidas usadas
 
 ```dax
 -- Ticket médio
